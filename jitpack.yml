@@ -1,4 +1,4 @@
 install:
   - FILE="-Dfile=media.aar"
-  - mvn install:install-file $FILE -DgroupId=com.truvideo.sdk -DartifactId=media -Dversion=0.66.1.12 -Dpackaging=aar -DgeneratePom=true
+  - mvn install:install-file $FILE -DgroupId=com.truvideo.sdk -DartifactId=media -Dversion=66.1.1-beta.13 -Dpackaging=aar -DgeneratePom=true
 
